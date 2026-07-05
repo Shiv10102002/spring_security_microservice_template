@@ -9,7 +9,7 @@
 		<version>3.4.5</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.harinitech</groupId>
+	<groupId>com.shiv</groupId>
 	<artifactId>springboot-security-jwt-rbac-app1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-security-jwt-rbac-app1</name>

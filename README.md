@@ -470,7 +470,7 @@ Verified test coverage includes: valid/invalid login flows, fresh access-token v
 ## 🚀 Running the Platform
 
 ```bash
-git clone https://github.com/amarenderreddyvoladri/production-prototype-security-template.git
+git clone https://github.com/Shiv10102002/spring_security_microservice_template.git
 cd production-prototype-security-template
 
 # .env file required — see docker-compose.yml for required variables:
@@ -495,14 +495,14 @@ docker compose up --build
 
 ## 👤 About the Engineer
 
-**Amarender Reddy Voladri**
+**Shiv Kumar **
 Java Backend Developer | Spring Boot · Distributed Systems · Identity & Access Management
 
 This platform was built to internalize how real platform/identity teams architect authentication and authorization infrastructure — not as a copy of a tutorial, but as a system designed, debugged, hardened, and re-verified against its own source code module by module.
 
-[![GitHub](https://img.shields.io/badge/GitHub-amarenderreddyvoladri-181717?style=flat-square&logo=github)](https://github.com/amarenderreddyvoladri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=netlify)](https://amarenderreddyvoladri-portfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/amarender-reddy-voladri)
+[![GitHub](https://img.shields.io/badge/GitHub-Shiv-181717?style=flat-square&logo=github)](https://github.com/Shiv10102002)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=netlify)](https://shiv10102002.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nikeshiv)
 
 ---
 
