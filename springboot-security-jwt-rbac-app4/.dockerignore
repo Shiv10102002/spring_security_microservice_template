@@ -1,0 +1,9 @@
+.git/
+.env
+.idea/
+.vscode/
+*.md
+*.log
+*.class
+.metadata/
+.sonarlint/

@@ -1,0 +1,183 @@
+# ======================
+
+# BUILD OUTPUT
+
+# ======================
+
+target/
+build/
+out/
+
+# ======================
+
+# LOGS
+
+# ======================
+
+*.log
+logs/
+*.out
+
+# ======================
+
+# SPRING BOOT
+
+# ======================
+
+HELP.md
+
+# ======================
+
+# ENVIRONMENT / SECRETS
+
+# ======================
+
+.env
+.env.*
+*.env
+# Allow templates/examples
+!.env.example
+
+application-secret.properties
+application-secret.yml
+application-secret.yaml
+
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.jks
+*.keystore
+
+# ======================
+
+# IDE - STS / ECLIPSE
+
+# ======================
+
+.metadata/
+.settings/
+.classpath
+.project
+.factorypath
+.springBeans
+.sts4-cache
+
+# ======================
+
+# IDE - INTELLIJ
+
+# ======================
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ======================
+
+# IDE - VS CODE
+
+# ======================
+
+.vscode/
+
+# ======================
+
+# STATIC ANALYSIS
+
+# ======================
+
+.sonarlint/
+
+# ======================
+
+# NETBEANS
+
+# ======================
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# ======================
+
+# MAVEN
+
+# ======================
+
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+!mvnw
+!mvnw.cmd
+
+# ======================
+
+# GRADLE
+
+# ======================
+
+.gradle/
+
+# ======================
+
+# OPERATING SYSTEM FILES
+
+# ======================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ======================
+
+# ARCHIVES
+
+# ======================
+
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# ======================
+
+# TEMP FILES
+
+# ======================
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# ======================
+
+# DOCKER
+
+# ======================
+
+docker-compose.override.yml
+
+# ======================
+
+# TEST OUTPUT
+
+# ======================
+
+coverage/
+jacoco/
+surefire-reports/
+failsafe-reports/
+
+# ======================
+
+# SECURITY SCANS
+
+# ======================
+
+dependency-check-report.*

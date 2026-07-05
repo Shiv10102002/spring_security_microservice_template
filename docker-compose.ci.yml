@@ -1,0 +1,5 @@
+services:
+  security-service:
+    environment:
+      APP_INIT_USERS: "true"
+      APP_INIT_DEFAULT_PASSWORD: "Password@123"

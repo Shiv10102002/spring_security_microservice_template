@@ -1,0 +1,12 @@
+.git
+.idea
+.metadata
+.sonarlint
+.vscode
+target
+**/target
+*.log
+*.class
+.env
+.env.*
+README.md
